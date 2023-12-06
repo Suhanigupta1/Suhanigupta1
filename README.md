@@ -27,9 +27,6 @@ Excited about collaborating on projects that challenge and inspire growth.
 Open to mentorship opportunities and learning from fellow developers.
 📫 Connect with Me:
 
-LinkedIn: https://www.linkedin.com/in/suhanigupta766/
-Instagrma: https://www.instagram.com/tangling.tales/
-
 Let's code together and solve real-world problems! 🚀✨
 
 
