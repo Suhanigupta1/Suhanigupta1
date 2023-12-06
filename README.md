@@ -9,17 +9,20 @@
 🌐 Constantly exploring new technologies and frameworks to expand my skill set.
 
 🌱 Tech Stack:
+
 Languages: Python, Java
 Web Development: HTML, CSS, JavaScript
 Databases: SQL
 Tools & Version Control: Git, GitHub
 
 📚 Interests:
+
 Solving complex problems with code.
 Building intuitive and user-friendly applications.
 In my free time I like to dance and create digital potraits, checkout my instagram profile: @tangling.tales
 
 🤝 Open to Collaboration:
+
 Excited about collaborating on projects that challenge and inspire growth.
 Open to mentorship opportunities and learning from fellow developers.
 📫 Connect with Me:
