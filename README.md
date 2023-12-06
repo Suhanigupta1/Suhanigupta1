@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 👋 Hello there! I'm Suhani Gupta, an aspiring software developer with a passion for Problem Solving and writing elegant code. Armed with a degree in Mathematics, I bring a unique perspective to problem-solving, finding joy in the intersection of logic and creativity.
 
