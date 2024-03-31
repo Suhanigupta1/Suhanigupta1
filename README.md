@@ -11,7 +11,7 @@
  🌱 Tech Stack:
 
 * Languages: Python, Java
-* Web Development: HTML, CSS, JavaScript
+* Web Development: HTML, CSS, JavaScript , React, Nodejs
 * Databases: SQL
 * Tools & Version Control: Git, GitHub
 
