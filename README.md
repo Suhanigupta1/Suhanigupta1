@@ -1,26 +1,53 @@
-👋 Hi, I’m Suhani Gupta — a Software Engineer passionate about building reliable backend systems, solving complex problems, and turning ideas into products that create real impact.
+# Hi, I'm Suhani Gupta 👋
 
-💻 I have 2+ years of software engineering experience at PocketFM, where I’ve worked across backend development, APIs, automation, distributed workflows, data pipelines, and internal products. I enjoy taking ownership of problems end-to-end — from understanding the requirement and designing the solution to building, debugging, and improving it in production.
+### Software Engineer | Backend Developer | AI & GenAI Enthusiast
 
-🚀 Some of the work I’ve contributed to includes:
-• Built Meta Ads automation that reduced ad creation time from ~45 minutes to ~5 minutes per asset.
-• Developed internal automation tools that reduced repetitive operational effort by ~90%.
-• Worked on migrating workflows from Airflow to Temporal to improve reliability, retries, and failure recovery.
-• Built RabbitMQ/Celery-based pipelines that reduced data delivery time by ~40%.
-• Developed backend services and APIs using Python, Django, REST APIs, MongoDB, Redis, and AWS.
+I'm a Software Engineer with **2+ years of professional experience** building backend systems, APIs, automation workflows, distributed pipelines, and products used by real users.
 
-🤖 I’m particularly interested in AI, GenAI, AI agents, and AI-native software development. I actively explore AI-assisted development tools and enjoy using them for rapid prototyping, debugging, research, and building better products.
+I enjoy solving complex problems, learning new technologies, and turning ambiguous requirements into **simple, reliable, and scalable solutions**.
 
-🛠️ Tech I work with:
-Python • Java • Django • REST APIs • MongoDB • Redis • RabbitMQ • Celery • Kafka • Airflow • Temporal • AWS • React • SQL • Git
+---
 
-🧠 I enjoy:
-• Problem solving & Data Structures and Algorithms
-• Backend & distributed systems
-• Building automation that eliminates repetitive work
-• Learning new technologies and experimenting with AI
-• Turning ambiguous problems into simple, scalable solutions
+## 🚀 About Me
 
-Outside of software, I enjoy dancing and creating digital art. 🎨
+* 💻 Software Engineer with professional experience at **PocketFM**
+* 🔧 Focused on **Backend Engineering, APIs, Distributed Systems & Automation**
+* 🤖 Exploring **AI, GenAI, LLMs, AI Agents & AI-native development**
+* 🧠 Strong interest in **Problem Solving, Data Structures & Algorithms**
+* ⚡ Enjoy building products and automating repetitive workflows
+* 🌱 Always learning and experimenting with new technologies
+* 🎨 Outside of coding, I enjoy **dancing and creating digital art**
 
-I’m currently exploring opportunities where I can work on challenging engineering and product problems, contribute with strong ownership, and grow at the intersection of software engineering and AI.
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — PocketFM
+
+I've worked on backend systems, automation, workflows, data pipelines, and internal products.
+
+Some of my contributions include:
+
+* 🚀 Built **Meta Ads automation** that reduced ad creation time from ~45 minutes to ~5 minutes per asset.
+* ⚙️ Developed internal automation tools that reduced repetitive operational effort by **~90%**.
+* 🔄 Worked on migrating workflows from **Apache Airflow to Temporal**, improving reliability, retries, failure recovery, and maintainability.
+* 📨 Built **RabbitMQ + Celery** based asynchronous processing pipelines that reduced data delivery time by **~40%**.
+* 🔐 Implemented **role-based access control using Casbin** for internal platform workflows.
+* 🔗 Built backend services and APIs supporting content, advertising, and operational workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+### Backend & APIs
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![E]()
