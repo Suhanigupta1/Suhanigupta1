@@ -1,35 +1,26 @@
-###
+👋 Hi, I’m Suhani Gupta — a Software Engineer passionate about building reliable backend systems, solving complex problems, and turning ideas into products that create real impact.
 
-👋 Hello there! I'm Suhani Gupta, an aspiring software developer with a passion for Problem Solving and writing elegant code. Armed with a degree in Mathematics, I bring a unique perspective to problem-solving, finding joy in the intersection of logic and creativity.
+💻 I have 2+ years of software engineering experience at PocketFM, where I’ve worked across backend development, APIs, automation, distributed workflows, data pipelines, and internal products. I enjoy taking ownership of problems end-to-end — from understanding the requirement and designing the solution to building, debugging, and improving it in production.
 
- 🚀 About Me:
+🚀 Some of the work I’ve contributed to includes:
+• Built Meta Ads automation that reduced ad creation time from ~45 minutes to ~5 minutes per asset.
+• Developed internal automation tools that reduced repetitive operational effort by ~90%.
+• Worked on migrating workflows from Airflow to Temporal to improve reliability, retries, and failure recovery.
+• Built RabbitMQ/Celery-based pipelines that reduced data delivery time by ~40%.
+• Developed backend services and APIs using Python, Django, REST APIs, MongoDB, Redis, and AWS.
 
-* 🎓 Graduated with a degree in Mathematics.
-* 💻 Enthusiastic about software development, data structures, and algorithms.
-* 🌐 Constantly exploring new technologies and frameworks to expand my skill set.
+🤖 I’m particularly interested in AI, GenAI, AI agents, and AI-native software development. I actively explore AI-assisted development tools and enjoy using them for rapid prototyping, debugging, research, and building better products.
 
- 🌱 Tech Stack:
+🛠️ Tech I work with:
+Python • Java • Django • REST APIs • MongoDB • Redis • RabbitMQ • Celery • Kafka • Airflow • Temporal • AWS • React • SQL • Git
 
-* Languages: Python, Java
-* Web Development: HTML, CSS, JavaScript , React, Nodejs
-* Databases: SQL
-* Tools & Version Control: Git, GitHub
+🧠 I enjoy:
+• Problem solving & Data Structures and Algorithms
+• Backend & distributed systems
+• Building automation that eliminates repetitive work
+• Learning new technologies and experimenting with AI
+• Turning ambiguous problems into simple, scalable solutions
 
- 📚 Interests:
+Outside of software, I enjoy dancing and creating digital art. 🎨
 
-* Solving complex problems with code.
-* Building intuitive and user-friendly applications.
-* In my free time I like to dance and create digital potraits, checkout my instagram profile: @tangling.tales
-
- 🤝 Open to Collaboration:
-
-* Excited about collaborating on projects that challenge and inspire growth.
-* Open to mentorship opportunities and learning from fellow developers.
-
-Let's code together and solve real-world problems! 🚀✨
-
-
-
-
-
-
+I’m currently exploring opportunities where I can work on challenging engineering and product problems, contribute with strong ownership, and grow at the intersection of software engineering and AI.
